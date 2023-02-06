@@ -86,7 +86,7 @@ class App extends Component {
       return (
         <>
           <Loader />
-          {/* <ImageGallery images={images} /> */}
+          <ImageGallery images={images} />
         </>
       );
     }
